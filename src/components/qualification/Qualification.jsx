@@ -43,7 +43,7 @@ const Qualification = () => {
                         <div>
                             <h3 className="qualification__title">B.Tech</h3>
                             <span 
-                            className="qualification__subtitle">Saveetha School of Egineering</span>
+                            className="qualification__subtitle">Saveetha School of Engineering</span>
                             <div className="qualification__calender">
                                 <i className="uil uil-calendar-alt"></i>
                                 2021 - 2025
